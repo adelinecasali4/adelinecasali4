@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## 👋 Hi, I'm Adeline Casali!  
 ### 🌱 About me  
-I'm a current graduate student, graduating in August 2024 with my Master's in Data Science. I have an analytical background with 2+ years of experience in biotechnology and 3+ years of experience in environmental research.  
+I'm a recent graduate with my Master's in Data Science. I have an analytical background with 2+ years of experience in biotechnology and 3+ years of experience in environmental research.  
   
 ### 📚 Projects and Tools  
 Check out my portfolio to discover my [projects](https://github.com/adelinecasali4/Portfolio-Guide/blob/main/README.md)!  
